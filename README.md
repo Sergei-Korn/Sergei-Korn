@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sergei Korn, a professional translator and interpreter.
+- 👋 Hi, I’m Sergio Korn, a professional translator and interpreter.
 - 👀 I’m interested in all things related to machine translation from a translator's (utilitarian) perspective.
 - 📫 You can reach me on Github or [LinkedIn](https://www.linkedin.com/in/mtpe).
 
